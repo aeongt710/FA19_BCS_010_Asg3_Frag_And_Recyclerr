@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Widget.Theme.FA19_BCS_010_Asg3_Frag_And_Recycler.MyView" parent="">
+        <item name="android:background">@color/gray_400</item>
+        <item name="exampleColor">@color/light_blue_400</item>
+    </style>
+</resources>
